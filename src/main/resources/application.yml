@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+app:
+  jwt:
+    access-minutes: 15
+    refresh-days: 7
